@@ -73,8 +73,7 @@ Manager;
 
 
 ## Задание 3
-### На сцену в Unity добавьте три различных элемента из XR
-Interraction Toolkit.
+### На сцену в Unity добавьте три различных элемента из XR Interraction Toolkit.
 ![3task](https://user-images.githubusercontent.com/41534344/195064978-d1fbc710-4635-4107-90b4-f2f954942206.png)
 
 
